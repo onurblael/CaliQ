@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#f0fdf4"/>
+  <!-- Green accent bar top -->
+  <rect width="1200" height="8" fill="#16a34a"/>
+  <!-- Decorative circles -->
+  <circle cx="1100" cy="100" r="200" fill="#16a34a" opacity="0.06"/>
+  <circle cx="100" cy="530" r="150" fill="#16a34a" opacity="0.06"/>
+
+  <!-- Logo emoji + name -->
+  <text x="600" y="200" font-size="72" text-anchor="middle" font-family="system-ui,sans-serif">💡</text>
+  <text x="600" y="290" font-size="64" font-weight="700" fill="#1e293b" text-anchor="middle" font-family="system-ui,sans-serif">CaliQ</text>
+
+  <!-- Tagline -->
+  <text x="600" y="360" font-size="28" fill="#64748b" text-anchor="middle" font-family="system-ui,sans-serif">Rastreador Inteligente de Calorias com IA</text>
+
+  <!-- Divider -->
+  <rect x="480" y="390" width="240" height="3" rx="2" fill="#16a34a" opacity="0.4"/>
+
+  <!-- Key benefits -->
+  <text x="600" y="450" font-size="22" fill="#16a34a" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="600">📸 Fotografa · 🧠 IA analisa · 🎯 Atinge os teus objetivos</text>
+
+  <!-- CTA -->
+  <rect x="450" y="490" width="300" height="56" rx="10" fill="#16a34a"/>
+  <text x="600" y="524" font-size="20" fill="white" text-anchor="middle" font-family="system-ui,sans-serif" font-weight="600">Entrar na Lista de Espera</text>
+
+  <!-- URL -->
+  <text x="600" y="600" font-size="18" fill="#94a3b8" text-anchor="middle" font-family="system-ui,sans-serif">caliqapp.com</text>
+</svg>

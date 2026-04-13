@@ -1,0 +1,44 @@
+# Dependências
+node_modules/
+.pnp
+.pnp.js
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Build Android/iOS
+android/
+ios/
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+*.orig.*
+
+# Credenciais — NUNCA commitar
+credentials.json
+google-services.json
+GoogleService-Info.plist
+.env
+.env.local
+.env.production
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# TypeScript
+*.tsbuildinfo
+
+# Scripts de modificação de binários (não pertencem ao repo)
+modify_versioncode*.py
+rebuild_aab.py

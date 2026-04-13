@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -v \"css\\\\|style\\\\|\\\\\\\\.btn\")",
+      "Bash(export PATH=\"/c/Program Files/nodejs:$HOME/AppData/Roaming/npm:$PATH\")",
+      "Read(//c/Users/bruno/AppData/Roaming/npm/**)",
+      "Read(//c/Users/bruno/AppData/Roaming/npm/node_modules/**)",
+      "Bash(npx eas-cli:*)",
+      "Bash(node -e ':*)"
+    ]
+  }
+}
